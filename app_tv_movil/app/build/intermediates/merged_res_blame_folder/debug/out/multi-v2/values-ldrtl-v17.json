@@ -4,7 +4,7 @@
             "outputFile": "com.john.quiroga.app_tv_movil.app-mergeDebugResources-9:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-3\\08f4a3e2df32bd6f8b6be6d8c1a7a067\\transformed\\leanback-1.0.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\Arust\\.gradle\\caches\\transforms-3\\08f4a3e2df32bd6f8b6be6d8c1a7a067\\transformed\\leanback-1.0.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

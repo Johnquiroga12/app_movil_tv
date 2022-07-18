@@ -4,26 +4,7 @@
             "outputFile": "com.john.quiroga.app_tv_movil.app-mergeDebugResources-9:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-3\\b435c9c9cde5a7559bf6855b099cbe7a\\transformed\\core-1.0.0\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
-                        "endLines": "2,3,4,5,6,7,8,9,12,17",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,14,18,70,73",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,354,470,927,1221,4891,5063",
-                        "endLines": "2,3,4,5,6,7,14,18,72,77",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,465,591,1048,1344,5058,5396"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-3\\134b728fa4e8aa6475e3c09158ebb5ed\\transformed\\media-1.0.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Arust\\.gradle\\caches\\transforms-3\\134b728fa4e8aa6475e3c09158ebb5ed\\transformed\\media-1.0.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",
@@ -42,7 +23,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-3\\08f4a3e2df32bd6f8b6be6d8c1a7a067\\transformed\\leanback-1.0.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Arust\\.gradle\\caches\\transforms-3\\b435c9c9cde5a7559bf6855b099cbe7a\\transformed\\core-1.0.0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,70,73",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,4891,5063",
+                        "endLines": "2,3,4,5,6,7,14,18,72,77",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,5058,5396"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Arust\\.gradle\\caches\\transforms-3\\08f4a3e2df32bd6f8b6be6d8c1a7a067\\transformed\\leanback-1.0.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,7,13,17,20,25,29,52,55,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
