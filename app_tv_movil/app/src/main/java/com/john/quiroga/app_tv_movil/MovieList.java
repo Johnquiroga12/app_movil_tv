@@ -47,8 +47,7 @@ public final class MovieList {
                         "Están compuestas casi en su totalidad de gas y plasma, un estado de supercalentamiento de la materia compuesta de partículas " +
                         "subatómicas.",
                 "",
-
-
+                //john
 
 
         } ;
