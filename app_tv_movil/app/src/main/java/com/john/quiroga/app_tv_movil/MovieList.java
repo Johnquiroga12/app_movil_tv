@@ -5,10 +5,10 @@ import java.util.List;
 
 public final class MovieList {
     public static final String MOVIE_CATEGORY[] = {
-            "PELICULAS ",
-            "SERIES",
-            "ANIME",
-            "NOVELAS",
+            "HISTORIA",
+            " FLORA",
+            "FAUNA",
+            "ASTRONOMIA",
 
     };
 
@@ -25,16 +25,35 @@ public final class MovieList {
     public static List<Movie> setupMovies() {
         list = new ArrayList<>();
         String title[] = {
-                "RAPIDOS Y FURIOSOS",
-                "Google Demo Slam_ 20ft Search",
-                "Introducing Gmail Red",
-                "Introducing Google Fiber to the Pole",
+                "historia",
+                "flora",
+                "fauna",
+                "astronomia",
                 "Introducing Google Nose"
-        };
+        };///john
 
-        String description = "Fusce id nisi turpis. Praesent viverra bibendum semper. ";
+        String description []={
+                "El documental es la expresión de un aspecto de la realidad, mostrada en forma audiovisual. La organización " +
+                        "y estructura de imágenes y sonidos (textos y entrevistas), según el punto de vista del autor, determina " +
+                        "el tipo de documental.",
+                "Las plantas también se comunican entre ellas (e incluso con otros seres vivos) Aunque a los humanos" +
+                        " nos cueste percatarnos, las plantas son capaces de comunicarse a través de señales olorosas, " +
+                        "visuales, auditivas, químicas y eléctricas",
+                "La tecnología, gran salvadora de documentales\n" +
+                        "Como explicaba antes el experto, a veces los animales no ofrecen material interesante, por lo que tienen que" +
+                        " crearlo ellos mismos. De esta forma, algunos documentales están formados por imágenes CGI, es decir, generadas " +
+                        "por ordenador",
+                "Las estrellas son motores de energía cósmica que producen calor, luz, rayos ultravioleta, rayos X y otras formas de radiación. " +
+                        "Están compuestas casi en su totalidad de gas y plasma, un estado de supercalentamiento de la materia compuesta de partículas " +
+                        "subatómicas.",
+                "",
+
+
+
+
+        } ;
         String studio[] = {
-                "PELICULAS", "SERIES", "ANIME", "NOVELAS", "NOTICIAS"
+                "DOCUMENTAL DE HISTORIA", "DOCUMENTAL DE FLORA", "DOCUMENTAL DE FAUNA", "DOCUMENTAL DE ASTRONOMIA", "NOTICIAS"
         };
         String videoUrl[] = {
                 "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
@@ -44,23 +63,23 @@ public final class MovieList {
                 "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Google%20Nose.mp4"
         };
         String bgImageUrl[] = {
-                "https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/2022-02/animes.jpg",
-                "https://i.blogs.es/6449f7/espinof-peliculas-mas-esperadas-estrenos-cine-2018/840_560.jpg",
-                "https://internetpasoapaso.com/wp-content/uploads/%C2%BFCu%C3%A1les-son-las-mejores-p%C3%A1ginas-web-para-ver-novelas-Online-gratis-y-completas-Lista.jpg",
-                "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Google%20Fiber%20to%20the%20Pole/bg.jpg",
-                "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Google%20Nose/bg.jpg",
+                "https://eacnur.org/blog/wp-content/uploads/2017/09/mejores-documentales-de-historia_opt-800x400.jpg",
+                "https://i.pinimg.com/564x/cd/e5/9b/cde59b624fed215e110c4a6a0756ca78.jpg",
+                "https://i.pinimg.com/564x/74/87/90/74879008028c2e3f128003e3ea3b9e1a.jpg",
+                "https://i.pinimg.com/564x/39/d1/10/39d11052e7d5952db5fb7ab5bff1c885.jpg",
+                "https://www.queeseconomia.site/wp-content/uploads/2018/05/363.png",
         };
         String cardImageUrl[] = {
                 //RAPIDOS
-                "https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg",
+                "https://i.pinimg.com/564x/6f/aa/c2/6faac27ed0f8392a6998a636661e4db5.jpg",
 //SERIE
-                "https://1.bp.blogspot.com/-2FUUi16sUv8/YY5ZBNFQCkI/AAAAAAABJIY/VJr6UzLkJWA5ItwLPACCkIPm2JCXKTTfQCLcBGAsYHQ/s1350/poster%2Bperdidos%2Ben%2Bel%2Bespacio%2Btemporada%2Bfinal.jpg",
+                "https://i.pinimg.com/564x/ff/bf/e0/ffbfe0943790c9cc3583ce01adf65dcc.jpg",
 
        //ANIME
-                "https://img1.ak.crunchyroll.com/i/spire3/98ea4207e23a2ea3e3af39ad641d88001533322009_main.jpg",
+                "https://i.pinimg.com/564x/f0/81/74/f0817496cf29cae7e60af02b58750801.jpg",
 //NOVELA
+                "https://i.pinimg.com/564x/df/31/7b/df317b8f5fa351f66438217901359b18.jpg",
                 "",
-                "https://cdnb.20m.es/sites/139/2022/05/9788419301000-196x300.jpg",
 
 
         };
@@ -69,7 +88,7 @@ public final class MovieList {
             list.add(
                     buildMovieInfo(
                             title[index],
-                            description,
+                            description[index],
                             studio[index],
                             videoUrl[index],
                             cardImageUrl[index],

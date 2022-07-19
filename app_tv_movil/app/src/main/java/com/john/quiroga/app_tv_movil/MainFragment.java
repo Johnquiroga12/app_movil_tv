@@ -87,12 +87,12 @@ private final Handler mHandler = new Handler(Looper.myLooper());
 
         int i;
         for (i = 0; i < NUM_ROWS; i++) {
-            if (i != 0) {
-                Collections.shuffle(list);
-            }
+            //if (i != 0) {
+              //  Collections.shuffle(list);
+            //}
             ArrayObjectAdapter listRowAdapter = new ArrayObjectAdapter(cardPresenter);
             for (int j = 0; j < NUM_COLS; j++) {
-                listRowAdapter.add(list.get(j % 5));
+                listRowAdapter.add(list.get(i));
             }
             HeaderItem header = new HeaderItem(i, MovieList.MOVIE_CATEGORY[i]);
             rowsAdapter.add(new ListRow(header, listRowAdapter));

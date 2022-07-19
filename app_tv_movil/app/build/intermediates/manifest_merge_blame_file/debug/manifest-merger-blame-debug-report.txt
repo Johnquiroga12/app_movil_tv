@@ -6,89 +6,89 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="25"
-8-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+8-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+9-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:6:5-67
-11-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:6:22-64
+11-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:6:22-64
 12
 13    <uses-feature
-13-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:8:5-10:36
+13-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:8:5-10:36
 14        android:name="android.hardware.touchscreen"
-14-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:9:9-52
+14-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:9:9-52
 15        android:required="false" />
-15-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:10:9-33
+15-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:10:9-33
 16    <uses-feature
-16-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:11:5-13:35
+16-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:11:5-13:35
 17        android:name="android.software.leanback"
-17-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:12:9-49
+17-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:12:9-49
 18        android:required="true" />
-18-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:13:9-32
+18-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:13:9-32
 19
 20    <application
-20-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:15:5-44:19
+20-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:15:5-44:19
 21        android:allowBackup="true"
-21-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:16:9-35
+21-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:16:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+22-->[androidx.core:core:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
 23        android:debuggable="true"
 24        android:extractNativeLibs="false"
 25        android:icon="@mipmap/ic_launcher"
-25-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:17:9-43
+25-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:17:9-43
 26        android:label="@string/app_name"
-26-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:18:9-41
+26-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:18:9-41
 27        android:supportsRtl="true"
-27-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:19:9-35
+27-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:19:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.App_tv_movil" >
-29-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:20:9-50
+29-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:20:9-50
 30        <activity
-30-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:21:9-34:20
+30-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:21:9-34:20
 31            android:name="com.john.quiroga.app_tv_movil.MainActivity"
-31-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:22:13-41
+31-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:22:13-41
 32            android:banner="@drawable/app_icon_your_company"
-32-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:23:13-61
+32-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:23:13-61
 33            android:exported="true"
-33-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:24:13-36
+33-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:24:13-36
 34            android:icon="@drawable/app_icon_your_company"
-34-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:25:13-59
+34-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:25:13-59
 35            android:label="@string/app_name"
-35-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:26:13-45
+35-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:26:13-45
 36            android:logo="@drawable/app_icon_your_company"
-36-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:27:13-59
+36-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:27:13-59
 37            android:screenOrientation="landscape" >
-37-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:28:13-50
+37-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:28:13-50
 38            <intent-filter>
-38-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:29:13-33:29
+38-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:29:13-33:29
 39                <action android:name="android.intent.action.MAIN" />
-39-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:30:17-69
-39-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:30:25-66
+39-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:30:17-69
+39-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:30:25-66
 40
 41                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
-41-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:32:17-86
-41-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:32:27-83
+41-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:32:17-86
+41-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:32:27-83
 42            </intent-filter>
 43        </activity>
 44        <activity
-44-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:35:9-37:40
+44-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:35:9-37:40
 45            android:name="com.john.quiroga.app_tv_movil.DetailsActivity"
-45-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:36:13-44
+45-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:36:13-44
 46            android:exported="false" />
-46-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:37:13-37
+46-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:37:13-37
 47        <activity
-47-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:38:9-40:40
+47-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:38:9-40:40
 48            android:name="com.john.quiroga.app_tv_movil.PlaybackActivity"
-48-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:39:13-45
+48-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:39:13-45
 49            android:exported="false" />
-49-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:40:13-37
+49-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:40:13-37
 50        <activity
-50-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:41:9-43:40
+50-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:41:9-43:40
 51            android:name="com.john.quiroga.app_tv_movil.BrowseErrorActivity"
-51-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:42:13-48
+51-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:42:13-48
 52            android:exported="false" />
-52-->C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:43:13-37
+52-->C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:43:13-37
 53    </application>
 54
 55</manifest>

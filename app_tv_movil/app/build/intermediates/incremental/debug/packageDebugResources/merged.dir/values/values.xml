@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_gradient_end">#DDDDDD</color>
+    <color name="background_gradient_start">#000000</color>
+    <color name="default_background">#3d3d3d</color>
+    <color name="fastlane_background">#0096a6</color>
+    <color name="search_opaque">#ffaa3f</color>
+    <color name="selected_background">#ffaa3f</color>
+    <string name="app_name">app_tv_movil</string>
+<<<<<<< HEAD
+    <string name="browse_title">DOCUMENTALES DEL MUNDO</string>
+    <string name="buy_1">fecha de extreno</string>
+    <string name="buy_2">2023</string>
+=======
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+>>>>>>> 917aedc6cdd6815d08a0f1e34778bcb19935af09
+    <string name="dismiss_error">Dismiss</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="grid_view">Grid View</string>
+    <string name="movie">Movie</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="related_movies">Related Videos</string>
+<<<<<<< HEAD
+    <string name="rent_1">autores</string>
+    <string name="rent_2">1</string>
+    <string name="watch_trailer_1">video</string>
+    <string name="watch_trailer_2">ver</string>
+=======
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+>>>>>>> 917aedc6cdd6815d08a0f1e34778bcb19935af09
+    <style name="Theme.App_tv_movil" parent="@style/Theme.Leanback"/>
+</resources>

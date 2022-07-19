@@ -1,214 +1,214 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
-MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\08f4a3e2df32bd6f8b6be6d8c1a7a067\transformed\leanback-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\LENOVO\.gradle\caches\transforms-3\13d4f57912fcdc3183cc004a4a883a89\transformed\glide-4.11.0\AndroidManifest.xml:2:1-12:12
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\ad822f617078449710576407c5919783\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\80982afc3ffacfd3e547d41c135be4d5\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\3da53a589ad0c95b5ed41ebfbc806c9f\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\a0f487a4babc02e94edd80c903b84cb8\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\134b728fa4e8aa6475e3c09158ebb5ed\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\9b680f4524c73cf4651435f7b7ab96a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\9799da5c1e0689f1193d2bfe97eafa0b\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\28987daf94618d12a626039a1bcb819f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\672c698f430ef3053188faf174992e0a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\167a7615f5c326be626c34db5c113190\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\5dc7619c10ef7678503baa0c7d18529c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\7f38362bc79cae2826970a4e78d0cb43\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\d4b30b1971471f6b83602b161da62c5c\transformed\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\LENOVO\.gradle\caches\transforms-3\f0b51d136c005b57f474de5973698006\transformed\gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b1330398772e771d40914e2426861ea6\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\c1a9d072f675a0182d61ba643fe0605b\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\e1e2678fabf72a33f79cbc86269cb4b6\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\204d3d0be73b32d1e471282cc38c7187\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\50d1210be62fa0ff51eb398d1f0c84bc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\be65a5e1808a5e2d45730c2d80164a89\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\81f39f6b10eaffbd9990198b840796f5\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\c91ee04b2e3e2b4e3408d247f58d785c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
+ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\08f4a3e2df32bd6f8b6be6d8c1a7a067\transformed\leanback-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Arust\.gradle\caches\transforms-3\13d4f57912fcdc3183cc004a4a883a89\transformed\glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\ad822f617078449710576407c5919783\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\80982afc3ffacfd3e547d41c135be4d5\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\3da53a589ad0c95b5ed41ebfbc806c9f\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\a0f487a4babc02e94edd80c903b84cb8\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\134b728fa4e8aa6475e3c09158ebb5ed\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\9b680f4524c73cf4651435f7b7ab96a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\9799da5c1e0689f1193d2bfe97eafa0b\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\28987daf94618d12a626039a1bcb819f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\672c698f430ef3053188faf174992e0a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\167a7615f5c326be626c34db5c113190\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\5dc7619c10ef7678503baa0c7d18529c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\7f38362bc79cae2826970a4e78d0cb43\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\d4b30b1971471f6b83602b161da62c5c\transformed\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Arust\.gradle\caches\transforms-3\f0b51d136c005b57f474de5973698006\transformed\gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b1330398772e771d40914e2426861ea6\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\c1a9d072f675a0182d61ba643fe0605b\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\e1e2678fabf72a33f79cbc86269cb4b6\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\204d3d0be73b32d1e471282cc38c7187\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\50d1210be62fa0ff51eb398d1f0c84bc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\be65a5e1808a5e2d45730c2d80164a89\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\81f39f6b10eaffbd9990198b840796f5\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\c91ee04b2e3e2b4e3408d247f58d785c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:4:5-44
-		INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
-		INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
-		INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:6:5-67
+ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:6:22-64
 uses-feature#android.hardware.touchscreen
-ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:8:5-10:36
+ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:8:5-10:36
 	android:required
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:10:9-33
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:10:9-33
 	android:name
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:9:9-52
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:9:9-52
 uses-feature#android.software.leanback
-ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:11:5-13:35
+ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:11:5-13:35
 	android:required
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:13:9-32
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:13:9-32
 	android:name
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:12:9-49
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:12:9-49
 application
-ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:15:5-44:19
-MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\LENOVO\.gradle\caches\transforms-3\13d4f57912fcdc3183cc004a4a883a89\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\LENOVO\.gradle\caches\transforms-3\13d4f57912fcdc3183cc004a4a883a89\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
-MERGED from [androidx.core:core:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\LENOVO\.gradle\caches\transforms-3\f0b51d136c005b57f474de5973698006\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\LENOVO\.gradle\caches\transforms-3\f0b51d136c005b57f474de5973698006\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\c1a9d072f675a0182d61ba643fe0605b\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\c1a9d072f675a0182d61ba643fe0605b\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:15:5-44:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Arust\.gradle\caches\transforms-3\13d4f57912fcdc3183cc004a4a883a89\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Arust\.gradle\caches\transforms-3\13d4f57912fcdc3183cc004a4a883a89\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Arust\.gradle\caches\transforms-3\f0b51d136c005b57f474de5973698006\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Arust\.gradle\caches\transforms-3\f0b51d136c005b57f474de5973698006\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\c1a9d072f675a0182d61ba643fe0605b\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\c1a9d072f675a0182d61ba643fe0605b\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:19:9-35
 	android:label
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:18:9-41
 	android:icon
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:17:9-43
 	android:allowBackup
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:20:9-50
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:20:9-50
 activity#com.john.quiroga.app_tv_movil.MainActivity
-ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:21:9-34:20
+ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:21:9-34:20
 	android:screenOrientation
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:28:13-50
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:28:13-50
 	android:label
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:26:13-45
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:26:13-45
 	android:exported
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:24:13-36
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:24:13-36
 	android:icon
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:25:13-59
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:25:13-59
 	android:banner
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:23:13-61
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:23:13-61
 	android:logo
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:27:13-59
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:27:13-59
 	android:name
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:22:13-41
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:22:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LEANBACK_LAUNCHER
-ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:30:17-69
+ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LEANBACK_LAUNCHER
-ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:32:17-86
+ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:32:17-86
 	android:name
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:32:27-83
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:32:27-83
 activity#com.john.quiroga.app_tv_movil.DetailsActivity
-ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:35:9-37:40
+ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:35:9-37:40
 	android:exported
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:37:13-37
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:37:13-37
 	android:name
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:36:13-44
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:36:13-44
 activity#com.john.quiroga.app_tv_movil.PlaybackActivity
-ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:38:9-40:40
+ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:38:9-40:40
 	android:exported
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:40:13-37
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:39:13-45
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:39:13-45
 activity#com.john.quiroga.app_tv_movil.BrowseErrorActivity
-ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:41:9-43:40
+ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:41:9-43:40
 	android:exported
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:43:13-37
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:43:13-37
 	android:name
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:42:13-48
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml:42:13-48
 uses-sdk
-INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
-MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\08f4a3e2df32bd6f8b6be6d8c1a7a067\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\08f4a3e2df32bd6f8b6be6d8c1a7a067\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\LENOVO\.gradle\caches\transforms-3\13d4f57912fcdc3183cc004a4a883a89\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\LENOVO\.gradle\caches\transforms-3\13d4f57912fcdc3183cc004a4a883a89\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\ad822f617078449710576407c5919783\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\ad822f617078449710576407c5919783\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\80982afc3ffacfd3e547d41c135be4d5\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\80982afc3ffacfd3e547d41c135be4d5\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\3da53a589ad0c95b5ed41ebfbc806c9f\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\3da53a589ad0c95b5ed41ebfbc806c9f\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\a0f487a4babc02e94edd80c903b84cb8\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\a0f487a4babc02e94edd80c903b84cb8\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\134b728fa4e8aa6475e3c09158ebb5ed\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\134b728fa4e8aa6475e3c09158ebb5ed\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\9b680f4524c73cf4651435f7b7ab96a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\9b680f4524c73cf4651435f7b7ab96a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\9799da5c1e0689f1193d2bfe97eafa0b\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\9799da5c1e0689f1193d2bfe97eafa0b\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\28987daf94618d12a626039a1bcb819f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\28987daf94618d12a626039a1bcb819f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\672c698f430ef3053188faf174992e0a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\672c698f430ef3053188faf174992e0a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\167a7615f5c326be626c34db5c113190\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\167a7615f5c326be626c34db5c113190\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\5dc7619c10ef7678503baa0c7d18529c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\5dc7619c10ef7678503baa0c7d18529c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\7f38362bc79cae2826970a4e78d0cb43\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\7f38362bc79cae2826970a4e78d0cb43\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\d4b30b1971471f6b83602b161da62c5c\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\d4b30b1971471f6b83602b161da62c5c\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\LENOVO\.gradle\caches\transforms-3\f0b51d136c005b57f474de5973698006\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\LENOVO\.gradle\caches\transforms-3\f0b51d136c005b57f474de5973698006\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b1330398772e771d40914e2426861ea6\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b1330398772e771d40914e2426861ea6\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\c1a9d072f675a0182d61ba643fe0605b\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\c1a9d072f675a0182d61ba643fe0605b\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\e1e2678fabf72a33f79cbc86269cb4b6\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\e1e2678fabf72a33f79cbc86269cb4b6\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\204d3d0be73b32d1e471282cc38c7187\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\204d3d0be73b32d1e471282cc38c7187\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\50d1210be62fa0ff51eb398d1f0c84bc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\50d1210be62fa0ff51eb398d1f0c84bc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\be65a5e1808a5e2d45730c2d80164a89\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\be65a5e1808a5e2d45730c2d80164a89\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\81f39f6b10eaffbd9990198b840796f5\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\81f39f6b10eaffbd9990198b840796f5\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\c91ee04b2e3e2b4e3408d247f58d785c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\c91ee04b2e3e2b4e3408d247f58d785c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\08f4a3e2df32bd6f8b6be6d8c1a7a067\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\08f4a3e2df32bd6f8b6be6d8c1a7a067\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Arust\.gradle\caches\transforms-3\13d4f57912fcdc3183cc004a4a883a89\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Arust\.gradle\caches\transforms-3\13d4f57912fcdc3183cc004a4a883a89\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\ad822f617078449710576407c5919783\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\ad822f617078449710576407c5919783\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\80982afc3ffacfd3e547d41c135be4d5\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\80982afc3ffacfd3e547d41c135be4d5\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\3da53a589ad0c95b5ed41ebfbc806c9f\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\3da53a589ad0c95b5ed41ebfbc806c9f\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\a0f487a4babc02e94edd80c903b84cb8\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\a0f487a4babc02e94edd80c903b84cb8\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\134b728fa4e8aa6475e3c09158ebb5ed\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\134b728fa4e8aa6475e3c09158ebb5ed\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\9b680f4524c73cf4651435f7b7ab96a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\9b680f4524c73cf4651435f7b7ab96a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\9799da5c1e0689f1193d2bfe97eafa0b\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\9799da5c1e0689f1193d2bfe97eafa0b\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\28987daf94618d12a626039a1bcb819f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\28987daf94618d12a626039a1bcb819f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\672c698f430ef3053188faf174992e0a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\672c698f430ef3053188faf174992e0a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\167a7615f5c326be626c34db5c113190\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\167a7615f5c326be626c34db5c113190\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\5dc7619c10ef7678503baa0c7d18529c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\5dc7619c10ef7678503baa0c7d18529c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\7f38362bc79cae2826970a4e78d0cb43\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\7f38362bc79cae2826970a4e78d0cb43\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\d4b30b1971471f6b83602b161da62c5c\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\d4b30b1971471f6b83602b161da62c5c\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b435c9c9cde5a7559bf6855b099cbe7a\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Arust\.gradle\caches\transforms-3\f0b51d136c005b57f474de5973698006\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Arust\.gradle\caches\transforms-3\f0b51d136c005b57f474de5973698006\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b1330398772e771d40914e2426861ea6\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b1330398772e771d40914e2426861ea6\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\c1a9d072f675a0182d61ba643fe0605b\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\c1a9d072f675a0182d61ba643fe0605b\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\e1e2678fabf72a33f79cbc86269cb4b6\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\e1e2678fabf72a33f79cbc86269cb4b6\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\204d3d0be73b32d1e471282cc38c7187\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\204d3d0be73b32d1e471282cc38c7187\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\50d1210be62fa0ff51eb398d1f0c84bc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\50d1210be62fa0ff51eb398d1f0c84bc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\be65a5e1808a5e2d45730c2d80164a89\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\be65a5e1808a5e2d45730c2d80164a89\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\81f39f6b10eaffbd9990198b840796f5\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Arust\.gradle\caches\transforms-3\81f39f6b10eaffbd9990198b840796f5\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\c91ee04b2e3e2b4e3408d247f58d785c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\c91ee04b2e3e2b4e3408d247f58d785c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Arust\.gradle\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\LENOVO\OneDrive\Documentos\android studio\Nueva carpeta\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arust\AndroidStudioProjects\app_movil_tv\app_tv_movil\app\src\main\AndroidManifest.xml

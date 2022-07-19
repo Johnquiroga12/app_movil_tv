@@ -4,7 +4,7 @@
             "outputFile": "com.john.quiroga.app_tv_movil.app-mergeDebugResources-9:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-3\\134b728fa4e8aa6475e3c09158ebb5ed\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Arust\\.gradle\\caches\\transforms-3\\134b728fa4e8aa6475e3c09158ebb5ed\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

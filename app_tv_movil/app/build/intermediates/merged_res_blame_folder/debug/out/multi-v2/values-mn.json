@@ -4,7 +4,7 @@
             "outputFile": "com.john.quiroga.app_tv_movil.app-mergeDebugResources-9:/values-mn/values-mn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-3\\b435c9c9cde5a7559bf6855b099cbe7a\\transformed\\core-1.0.0\\res\\values-mn\\values-mn.xml",
+                    "source": "C:\\Users\\Arust\\.gradle\\caches\\transforms-3\\b435c9c9cde5a7559bf6855b099cbe7a\\transformed\\core-1.0.0\\res\\values-mn\\values-mn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-3\\08f4a3e2df32bd6f8b6be6d8c1a7a067\\transformed\\leanback-1.0.0\\res\\values-mn\\values-mn.xml",
+                    "source": "C:\\Users\\Arust\\.gradle\\caches\\transforms-3\\08f4a3e2df32bd6f8b6be6d8c1a7a067\\transformed\\leanback-1.0.0\\res\\values-mn\\values-mn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
