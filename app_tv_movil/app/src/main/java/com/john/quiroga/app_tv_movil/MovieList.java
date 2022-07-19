@@ -55,9 +55,9 @@ public final class MovieList {
                 "DOCUMENTAL DE HISTORIA", "DOCUMENTAL DE FLORA", "DOCUMENTAL DE FAUNA", "DOCUMENTAL DE ASTRONOMIA", "NOTICIAS"
         };
         String videoUrl[] = {
-                "https://drive.google.com/file/d/1YpmXoGg6VP06iRORPlhReNNzwKzl_Mts/view.mp4",
-                "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
-                "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Gmail%20Blue.mp4",
+                "https://s31.aconvert.com/convert/p3r68-cdx67/zt8jl-wskff.mp4",
+                "https://s17.aconvert.com/convert/p3r68-cdx67/fbobh-gc5yt.mp4",
+                "https://s31.aconvert.com/convert/p3r68-cdx67/cl8pj-nrfpl.mp4",
                 "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Google%20Fiber%20to%20the%20Pole.mp4",
                 ""
         };

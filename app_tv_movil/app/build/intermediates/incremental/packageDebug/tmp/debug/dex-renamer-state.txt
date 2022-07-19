@@ -1,4 +1,4 @@
-#Mon Jul 18 20:58:05 COT 2022
+#Mon Jul 18 22:15:44 COT 2022
 base.2=C\:\\Users\\Arust\\AndroidStudioProjects\\app_movil_tv\\app_tv_movil\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
 path.2=12/classes.dex
 base.1=C\:\\Users\\Arust\\AndroidStudioProjects\\app_movil_tv\\app_tv_movil\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
